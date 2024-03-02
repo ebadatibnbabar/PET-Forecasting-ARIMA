@@ -1,5 +1,6 @@
 # PET Forecasting using ARIMA
 Application of the AutoRegressive Integrated Moving Average (ARIMA) model to forecast potential evapotranspiration (PET) patterns. Leveraging time-series analysis techniques, it predicts future rainfall levels by analyzing historical data specifically from Bahawalnagar District, Punjab, Pakistan. Additionally, this project aids in anticipating drought patterns across the region.
+
 ![PET Forecasting ARIMA](output-pet-forecast-arima.png)
 
 # Model Type
