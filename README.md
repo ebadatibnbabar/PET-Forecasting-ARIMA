@@ -8,10 +8,10 @@ The ARIMA (AutoRegressive Integrated Moving Average) model employed in this repo
 The repository contains time series data consisting of PET data spanning from 1992 to 2021. PET was calculated from minimum and maximum temperature using Hargreaves method by DrinC software. The data was meticulously recorded by the Pakistan Meteorological Department and obtained for M.Phil Research purposes.
 
 # Requirements
-•	RStudio version 2023.06.1 Build 524
-•	**R Libraries:** lubridate, ggplot2, readxl, tidyverse, dplyr, astsa, forecast, urca, ggfortify, tsutils, writexl
+-	RStudio version 2023.06.1 Build 524
+-	**R Libraries:** lubridate, ggplot2, readxl, tidyverse, dplyr, astsa, forecast, urca, ggfortify, tsutils, writexl
 
 # Citation
 If you use this repository or the data provided, please cite the following:
-•	Rehman, E. (2024). PET Forecasting ARIMA. GitHub. https://github.com/ebadatibnbabar/PET-Forecasting-ARIMA
-•	Pakistan Meteorological Department. (1992-2021). Temperature Data. Retrieved from https://www.pmd.gov.pk/en/
+- Rehman, E. (2024). PET Forecasting ARIMA. GitHub. https://github.com/ebadatibnbabar/PET-Forecasting-ARIMA
+- Pakistan Meteorological Department. (1992-2021). Temperature Data. Retrieved from https://www.pmd.gov.pk/en/
